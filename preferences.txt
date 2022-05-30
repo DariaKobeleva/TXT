@@ -1,0 +1,5 @@
+Favorite Movie: Seven
+Favorite Serial: Scrubs
+Favorite Food": Fruit
+Favorite Season: Spring
+Country: Sweden
