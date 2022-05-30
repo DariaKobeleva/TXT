@@ -1,0 +1,6 @@
+First_name: Daria
+Last_name: Kobeleva
+Surname: Sergeevna
+Age: 27
+Pets: 0
+Salary: 2500$
