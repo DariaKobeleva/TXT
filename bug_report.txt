@@ -1,0 +1,10 @@
+Summary: The 'Undo' button is disabled after clicking the 'Save' button
+Pre-condition: The User1B was created
+STR": 
+		1.Log in under User1B
+		2.Select
+		3.Edit the information 'User Name' field
+		4.Click the 'Save' button, 4.Navigate to the 'Undo' button
+	
+ACT": The 'Undo' buttons is disabled after clicking the 'Save' button
+EXP": The 'Undo' buttons is activated after clicking the 'Save' button
